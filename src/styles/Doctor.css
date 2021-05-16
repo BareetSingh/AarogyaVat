@@ -1,0 +1,98 @@
+.top {
+  margin-top: -15px;
+  padding-top: 20px;
+  height: 480px;
+  background-image: url("../images/doctors_bg.jpeg");
+}
+
+.search {
+  margin-top: -20px;
+}
+#search-bar {
+  width: 100%;
+  height: 45px;
+}
+
+#search-btn {
+  width: 100%;
+  height: 45px;
+  font-size: large;
+  margin-left: -20px;
+}
+
+.popular-searches {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.suggestion {
+  height: 100px;
+  background-color: #9ca996;
+}
+.suggestion div div {
+  display: block;
+}
+
+.security {
+  height: 600px;
+}
+
+.security-text {
+  padding-top: 100px;
+  padding-left: 100px;
+}
+.suggestion-img {
+  height: 30px;
+}
+
+.security-img {
+  padding: 10px 0px;
+  height: 580px;
+}
+.security-bottom-img {
+  height: 100px;
+}
+ul {
+  margin-top: 20px;
+  margin-left: -35px;
+}
+
+.list-for-security li {
+  list-style: none;
+  background-image: url("../gif/tick1.gif");
+  background-repeat: no-repeat;
+  background-position: 0px center;
+  padding: 0px 0px 0px 28px;
+  background-size: 20px;
+
+  letter-spacing: 1px;
+  word-spacing: 5px;
+
+  margin-bottom: 14px;
+}
+
+.vid {
+  height: 580px;
+  border-radius: 30px;
+  padding: 5px 0px;
+}
+
+.add-bar {
+  background-color: #edf1eb;
+  border-bottom: 2px solid #edf1eb;
+}
+.magazines {
+  margin: 0px auto;
+}
+
+.magazine-logo {
+  height: 100px;
+  width: 200px;
+}
+
+.medicine-ads {
+  padding: 100px 50px;
+}
+.medicine-box-img {
+  /* padding-right: 500px; */
+}
