@@ -1,5 +1,5 @@
-export const updateLog=()=>{
-    return {
-        type:"UPDATE_LOG"
-    }
-}
+export const updateLog = () => {
+  return {
+    type: "UPDATE_LOG",
+  };
+};

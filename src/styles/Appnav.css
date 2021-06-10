@@ -1,3 +1,8 @@
-.nav-bar{
-    margin-bottom: 1rem;
+.nav-bar {
+  margin-bottom: 1rem;
+}
+
+.logo {
+  height: 43px;
+  width: 20%;
 }

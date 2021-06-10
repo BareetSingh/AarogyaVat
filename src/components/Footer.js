@@ -9,7 +9,7 @@ class Footer extends Component {
             <ul>
               <li>
                 <h3>
-                  <a href="/">Practo</a>
+                  <a href="/">AarogyaVAt</a>
                 </h3>
               </li>
               <li>

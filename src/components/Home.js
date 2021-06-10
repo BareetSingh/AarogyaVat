@@ -63,7 +63,7 @@ class Home extends Component {
             <div className="col-md-3 doc-text">
               <h3>Find Doctors Near you</h3>
               <p>
-                Select prefered doctor and time slot to book an inclinic or
+                Select preferred doctor and time slot to book an inclinic or
                 video consultation
               </p>
               <Button variant="primary">Find Doctor Now</Button>
@@ -95,7 +95,7 @@ class Home extends Component {
               </p>
             </div>
             <div className="col-md-6">
-              <Button variant="primary">View All Specialities</Button>
+              <Button variant="primary">View All Specialties</Button>
             </div>
           </div>
         </div>
